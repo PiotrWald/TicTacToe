@@ -1,0 +1,21 @@
+html {
+  background-color: paleturquoise;
+}
+
+.cell {
+  background-color:whitesmoke;
+  border-radius: 0.5rem;
+  padding: 4rem;
+  border: 1px black solid;
+}
+
+.gameBoard {
+  display: grid;
+  grid-template-columns: 8rem 8rem 8rem;
+  grid-gap: 0.5rem;
+}
+
+.gameSpace {
+  background-color: rgb(1, 14, 14);
+  width: 25rem;
+}

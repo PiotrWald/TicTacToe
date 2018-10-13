@@ -2,13 +2,14 @@
 
 ## Introduction
 This is a project from excellent online course:
-`https://www.theodinproject.com/courses/javascript/lessons/tic-tac-toe-javascript`
+
+*https://www.theodinproject.com/courses/javascript/lessons/tic-tac-toe-javascript*
 
 The aim is to get better understanding of JS way of doing things
 
 ## Scope
-  - project setup
-  - creation of Gameboard object using module pattern
+  + project setup
+  + creation of Gameboard object using module pattern
   - generatin of Players using factory pattern
   - producing coresponding HTML file
   - writing a function render() rendering gameboard
